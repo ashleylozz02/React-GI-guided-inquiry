@@ -4,6 +4,7 @@ import basicInfo from "./component/basicInfo";
 
 
 class App extends React.Component {
+  ///consturctor///
   constructor(props) {
     super(props);
 
